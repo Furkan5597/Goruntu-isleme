@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "görüntü işleme", "görüntü işleme\görüntü işleme.csproj", "{99A15D9E-6F2F-4EE3-9B1B-BE13DC2567CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99A15D9E-6F2F-4EE3-9B1B-BE13DC2567CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99A15D9E-6F2F-4EE3-9B1B-BE13DC2567CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99A15D9E-6F2F-4EE3-9B1B-BE13DC2567CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99A15D9E-6F2F-4EE3-9B1B-BE13DC2567CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3DF55C-793B-4420-B517-5D6695F3E488}
+	EndGlobalSection
+EndGlobal
